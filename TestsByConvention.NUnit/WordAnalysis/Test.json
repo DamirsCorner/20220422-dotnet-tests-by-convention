@@ -1,0 +1,9 @@
+{
+  "Word": "Test",
+  "Length": 4,
+  "LetterCount": {
+    "e": 1,
+    "s": 1,
+    "t": 2
+  }
+}
